@@ -1,0 +1,15 @@
+@media (min-width: 1200px) {
+    .introduction {
+        margin-left: 0;
+        max-width: max-content;
+        font-size: smaller;
+    }
+}
+
+.bring-to-front {
+    z-index: 2;
+}
+
+.say-hello {
+    margin-top: 2%;
+}
